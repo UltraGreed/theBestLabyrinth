@@ -1,7 +1,7 @@
-the best labyrinth
+simple pseudo 3d game made with C++/SFML as educational project.
 
-like
+uses ray casting for rendering
 
-seriously
+configuration can be provided via GameHeaders/config.h file
 
-no jokes
+new maze is generated each run
